@@ -15,6 +15,11 @@
 - https://github.com/wishJinit/Algorithm-Acmicp/blob/9a66c75da9/greedy/Q1946.java
 
 
+전자레인지 (https://www.acmicpc.net/problem/10162)
+
+- https://github.com/wishJinit/Algorithm-Acmicp/blob/9a66c75da9/greedy/Q10162.java
+
+
 
 단어수학 (https://www.acmicpc.net/problem/1339)
 
