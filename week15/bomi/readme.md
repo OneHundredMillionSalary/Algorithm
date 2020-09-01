@@ -8,25 +8,15 @@
 
 
 
-<br/>
-
-
-
-
 ### 2019 카카오 개발자 겨울 인턴십
+
 [**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061)
 
 * [solution](https://github.com/BBBOMi/Algorithms-New/blob/master/week15/programmers/Main_64061.java)
 
-
-
 [**튜플**](https://programmers.co.kr/learn/courses/30/lessons/64065)
 
 * [solution](https://github.com/BBBOMi/Algorithms-New/blob/master/week15/programmers/Main_64065.java)
-
-
-
-<br/>
 
 
 
@@ -36,22 +26,12 @@
 
 
 
-<br/>
-
-
-
 ### 2020 kakao blind recruitment
 [**문자열 압축**](https://programmers.co.kr/learn/courses/30/lessons/60057)
 
 
 
-<br/>
-
-
-
 [**실패율**](https://programmers.co.kr/learn/courses/30/lessons/42889)
-
-* [solution]()
 
 [**괄호 변환**](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
@@ -64,6 +44,8 @@
 [**후보키**](https://programmers.co.kr/learn/courses/30/lessons/42890)
 
 * [solution](https://github.com/BBBOMi/Algorithms-New/blob/master/week15/programmers/Main_42890.java)
+
+
 
 ### 2020 카카오 인턴십
 [**키패드 누르기**](https://programmers.co.kr/learn/courses/30/lessons/67256)
