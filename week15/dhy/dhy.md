@@ -16,7 +16,7 @@
 
 [**튜플**](https://programmers.co.kr/learn/courses/30/lessons/64065)
 
-* [solution]
+* [solution](https://github.com/DohyunYoun/study/blob/10f8199a15/src/main/java/algorithm/Programmers64065.java)
 
 ### Summer/Winter Coding(2019)
 [**멀쩡한 사각형**](https://programmers.co.kr/learn/courses/30/lessons/62048)
