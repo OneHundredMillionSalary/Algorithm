@@ -5,7 +5,6 @@
 ## Week15
 ### 백준
 [**최단경로**](https://www.acmicpc.net/problem/1753)
-* [solution]
 * 다익스트라 알고리즘
 
 
@@ -20,8 +19,6 @@
 
 ### Summer/Winter Coding(2019)
 [**멀쩡한 사각형**](https://programmers.co.kr/learn/courses/30/lessons/62048)
-
-* [solution]
   
 ### 2020 kakao blind recruitment
 [**문자열 압축**](https://programmers.co.kr/learn/courses/30/lessons/60057)
@@ -34,7 +31,6 @@
   
 [**괄호 변환**](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
-* [solution]
 
 [**오픈채팅방**](https://programmers.co.kr/learn/courses/30/lessons/42888)
 
@@ -42,7 +38,6 @@
 
 [**후보키**](https://programmers.co.kr/learn/courses/30/lessons/42890)
 
-* [solution]
 
 ### 2020 카카오 인턴십
 [**키패드 누르기**](https://programmers.co.kr/learn/courses/30/lessons/67256)
@@ -51,5 +46,4 @@
 
 [**수식 최대화**](https://programmers.co.kr/learn/courses/30/lessons/67257)
 
-* [solution]
 
