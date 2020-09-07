@@ -47,8 +47,8 @@
 **KLC 코딩테스트**
 
 * [팰린드롬](https://mystes.tistory.com/25)
- * [solution](https://github.com/conquerex/WhatTheAlgorithm/blob/master/src/codetest/klc/Palindrome.java)
+  * [solution](https://github.com/conquerex/WhatTheAlgorithm/blob/master/src/codetest/klc/Palindrome.java)
 * [소수](https://programmers.co.kr/learn/courses/30/lessons/12977)
- * [solution](https://github.com/conquerex/WhatTheAlgorithm/blob/master/src/codetest/klc/Decimal.java)
+  * [solution](https://github.com/conquerex/WhatTheAlgorithm/blob/master/src/codetest/klc/Decimal.java)
 * [마을](https://programmers.co.kr/learn/courses/30/lessons/12978)
- * [solution](https://github.com/conquerex/WhatTheAlgorithm/blob/master/src/codetest/klc/Village.java)
+  * [solution](https://github.com/conquerex/WhatTheAlgorithm/blob/master/src/codetest/klc/Village.java)
