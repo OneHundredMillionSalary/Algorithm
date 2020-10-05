@@ -17,10 +17,10 @@
 
 👀 [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem)
 ####
-[solution]()
+
 ####
 
 👀 [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem)
 ####
-[solution]()
+
 ####
