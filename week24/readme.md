@@ -12,7 +12,7 @@
 
 #### 
 
-[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
+[solution]()
 
 #### 
 
@@ -20,7 +20,7 @@
 
 #### 
 
-[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
+[solution]()
 
 #### 
 
@@ -28,7 +28,7 @@
 
 #### 
 
-[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
+[solution]()
 
 #### 
 
@@ -36,7 +36,7 @@
 
 #### 
 
-[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
+[solution]()
 
 #### 
 
