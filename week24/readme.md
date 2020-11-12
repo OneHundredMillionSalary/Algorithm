@@ -12,7 +12,7 @@
 
 #### 
 
-[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q68936.java)
+[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
 
 #### 
 
@@ -20,7 +20,7 @@
 
 #### 
 
-[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q12911.java)
+[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
 
 #### 
 
@@ -28,7 +28,7 @@
 
 #### 
 
-[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q1845.java)
+[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
 
 #### 
 
@@ -36,10 +36,9 @@
 
 #### 
 
-[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q12924.java)
+[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week24)
 
 #### 
 
 
 
- 
