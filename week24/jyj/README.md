@@ -1,4 +1,4 @@
-## Week24 문제 (프로그래머스) 
+ ## Week24 문제 (프로그래머스) 
 
 👀 [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835)
 
@@ -12,7 +12,7 @@
 
 #### 
 
-[solution]()
+[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q68936.java)
 
 #### 
 
@@ -20,7 +20,7 @@
 
 #### 
 
-[solution]()
+[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q12911.java)
 
 #### 
 
@@ -28,7 +28,7 @@
 
 #### 
 
-[solution]()
+[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q1845.java)
 
 #### 
 
@@ -36,10 +36,11 @@
 
 #### 
 
-[solution]()
+[solution](https://github.com/wishJinit/Algorithm-Programmers/blob/master/Q12924.java)
 
 #### 
 
 
 
  
+
