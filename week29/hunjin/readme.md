@@ -12,7 +12,7 @@
 
 👀 [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
 ####
-[solution]()
+[solution](https://github.com/KimHunJin/Study-Book/blob/master/algorithm/src/programmers/FarthestNode.java)
 ####
 
 👀 [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
