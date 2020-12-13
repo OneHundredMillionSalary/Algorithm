@@ -22,6 +22,6 @@
 
 👀 [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)
 ####
-[solution] -> 파일 따로 첨부했습니닷
+[solution](https://github.com/OneHundredMillionSalary/Algorithm/blob/master/week30/yujin/KAKAO_BLIND_RECRUITMENT_2020.java)
 ####
 
