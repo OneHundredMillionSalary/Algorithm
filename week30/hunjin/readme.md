@@ -7,7 +7,7 @@
 
 👀 [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
 ####
-[solution](https://github.com/KimHunJin/Study-Book/blob/master/algorithm/src/programmers/LargestNumber.java)
+[solution](https://github.com/KimHunJin/Study-Book/blob/master/algorithm/src/programmers/MakeBigNumber.java)
 ####
 
 👀 [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
