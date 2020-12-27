@@ -4,6 +4,8 @@
 ####
 
 ```SQL
+# Solution
+
 # Write your MySQL query statement below
 SELECT Customers.Name "Customers"
 FROM Customers LEFT OUTER JOIN Orders
