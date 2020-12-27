@@ -2,8 +2,6 @@
 
 👀 https://leetcode.com/problems/customers-who-never-order/
 ####
-[solution]()
-####
 
 👀 https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 ####
@@ -11,8 +9,6 @@
 ####
 
 👀 https://leetcode.com/problems/beautiful-array/
-####
-[solution]()
 ####
 
 👀 https://leetcode.com/problems/stone-game/
